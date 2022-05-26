@@ -1,0 +1,23 @@
+{
+     "nome": "nome da pessoa",
+     "idade": 11, 
+     "endereco": 
+          {
+          "rua": "nome da rua",
+          "numero": 1,
+          "bairro": "nome do bairro",
+          "cidade": "nome da cidade",
+          "estado": "sigla do estado"
+     },
+     "telefone":{ 
+          "DDD": 21,
+          "numero": "digitar telefone"
+     },
+     "sexo": "masc. ou Fem.",
+     "emprego": {
+          "situacao": "empregado ou desempregado",
+          "cargo": "nome do cargo ocupado",
+          "empresa": "nome da empresa atual",
+          "Salario": "Valor do salário atual" 
+     }
+}

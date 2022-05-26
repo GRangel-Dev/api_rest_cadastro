@@ -1,0 +1,74 @@
+[
+{
+     "nome": "Zé das Couves",
+     "idade": 52, 
+     "endereco": 
+          {
+          "rua": "rua das verduras",
+          "numero": 1,
+          "bairro": "chicória do oeste",
+          "cidade": "couvenópolis",
+          "estado": "AR",
+          "pais": "BR"
+     },
+     "telefone":{ 
+          "DDD": 59,
+          "numero": "99999-9999"
+     },
+     "sexo": "masculino",
+     "emprego": {
+          "situacao": "empregado",
+          "cargo": "comprador de frutas",
+          "empresa": "couves da hora LTDA.",
+          "Salario": "R$ 1.900.00" 
+     }
+},
+{
+     "nome": "Margarida das Uvas ",
+     "idade": 29, 
+     "endereco": 
+          {
+          "rua": "rua das frutas",
+          "numero": 17,
+          "bairro": "Maçã do Leste",
+          "cidade": "Frutópolis",
+          "estado": "AR",
+          "pais": "BR"
+     },
+     "telefone":{ 
+          "DDD": 59,
+          "numero": "99999-9995"
+     },
+     "sexo": "feminino",
+     "emprego": {
+          "situacao": "desempregada",
+          "cargo": "sem cargo",
+          "empresa": "sem emmpresa",
+          "Salario": "R$ 0.00" 
+     }
+},
+{
+     "nome": "Ricardo das Bromélias",
+     "idade": 24, 
+     "endereco": 
+          {
+          "rua": "rua das Hortências",
+          "numero": 12,
+          "bairro": "Flores do Sul",
+          "cidade": "Floresnópolis",
+          "estado": "AR",
+          "pais": "BR"
+     },
+     "telefone":{ 
+          "DDD": 59,
+          "numero": "99999-9924"
+     },
+     "sexo": "masculino",
+     "emprego": {
+          "situacao": "empregado",
+          "cargo": "provador de legumes",
+          "empresa": "couves da hora LTDA.",
+          "Salario": "R$ 2.400.00" 
+     }
+}
+]
